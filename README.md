@@ -2,6 +2,9 @@
 ## Movie Search App
 This is a **Movie Search Application** built with **React.js** that allows users to search for movies and TV series using the **OMDB API**. Users can filter results, view movie details, and manage their favorite movies.
 
+##  Live Demo
+- [Live Demo](https://loquacious-platypus-7b9aa8.netlify.app/)  
+
 ## Features:
 - **Search Movies & TV Shows**: Fetches data from the OMDB API.
 - **Filtering**: Users can filter results by Movies, Series, or All.
