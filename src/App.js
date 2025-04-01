@@ -14,7 +14,7 @@ function App() {
   const [filter, setFilter] = useState("");
   const [favorite, setFavorite] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const moviePerPage = 6;
+  const moviePerPage = 10;
 
   // Function to handle searching for movies
   const handleSearch = useCallback(async (searchTerm) => {
