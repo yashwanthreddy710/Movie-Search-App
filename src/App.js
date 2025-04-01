@@ -9,8 +9,8 @@ import { SearchMovies } from "./api";
 
 function App() {
   const [movies, setMovies] = useState([]);
-  const [error, setError] = useState(null);
-  const [loading, setLoading] = useState(true);
+  const [, setError] = useState(null);
+  const [, setLoading] = useState(true);
   const [filter, setFilter] = useState("");
   const [favorite, setFavorite] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
